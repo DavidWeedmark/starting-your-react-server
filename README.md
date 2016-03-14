@@ -1,6 +1,6 @@
 # starting-your-react-server
-How to install the server used in Facebook's Github React Tutorial
-If you're just getting started with React.js, or any server-side web programming, there's a good chance you have never installed a web server on your PC before. This should explain those four little words in the tutorial enclosed in parenthesis, almost as an afterthought, in the tutorial: "Follow your progress by opening http://localhost:3000 in your browser (after starting the server)" in the <a href="https://facebook.github.io/react/docs/tutorial.html">Facebook's React Tutorial</a>.
+<p>How to install the server used in Facebook's Github React Tutorial</p>
+<p>If you're just getting started with React.js, or any server-side web programming, there's a good chance you have never installed a web server on your PC before. This should explain those four little words in the tutorial enclosed in parenthesis, almost as an afterthought, in the tutorial: "Follow your progress by opening http://localhost:3000 in your browser (after starting the server)" in the <a href="https://facebook.github.io/react/docs/tutorial.html">Facebook's React Tutorial</a>.</p>
 <h2>1. Download the Zip File</h2>
 This is the <a href="https://github.com/reactjs/react-tutorial/archive/master.zip">react-tutorial-master</a> zip folder linked in the tutorial. Place it in your test folder on your PC and extract it. 
 <h2>Open the ReadMe.md file</h2>
